@@ -1,0 +1,61 @@
+body
+{
+  background-color : lightcyan;
+
+}
+
+.head
+{
+     background : #173459;
+     border-radius : 2px;
+     width : 100%;
+     height : 80px;
+     margin : 0 auto;
+    
+
+    
+}
+
+#web_site_name
+{
+   font-family: times new roman;
+   border : 1px;
+   border-color : cyan;
+   margin-right : 20px;
+   text-align : center;
+   color : cyan;
+   
+
+
+
+   
+}
+.main_buttons
+{
+  
+
+
+}
+
+/* ---------- page's bottom---------- */ 
+
+.feet
+{
+   border-width: thin;
+   border-style: groove;
+   outline-style: double;
+   width: 100%;
+   height: 50px;
+  
+
+}
+
+#contact, #social
+{
+   border : 1px  black;
+   color : rgb(25, 50, 100);
+   underline : none;
+   
+
+}
+
