@@ -19,9 +19,7 @@ body
 #web_site_name
 {
    font-family: times new roman;
-   border : 1px;
-   border-color : cyan;
-   margin-right : 20px;
+   border : 1px cyan;
    text-align : center;
    color : cyan;
    
